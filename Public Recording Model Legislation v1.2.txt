@@ -1,0 +1,159 @@
+﻿Federal Right to Record Act of 2026
+(Open-source legislative model)
+DOCUMENT STRUCTURE:
+1. Public Narrative Overview
+2. Model Statute Text
+1. PUBLIC NARRATIVE OVERVIEW
+The Core Principle
+The Federal Right to Record Act of 2026 protects one of the public’s most important democratic tools: the ability to document how federal officers act in public.
+Recording is how people:
+* see their government clearly,
+* preserve evidence,
+* and ensure the truth survives past the moment.
+The Act establishes that:
+“If you have a right to be there, you have a right to record.”
+Why This Matters
+Recording is not a partisan issue. It is a public transparency issue.
+Footage protects:
+* journalists,
+* advocates,
+* bystanders,
+* and officers themselves.
+When someone is threatened, detained, or has their phone seized solely because they’re recording, the system loses the ability to perceive its own actions. This erodes trust and destroys evidence. This Act restores that democratic perception.
+How the Act Works
+1. Affirms the right to record in public spaces. If you can lawfully stand there, you can lawfully record there.
+2. Prohibits retaliation for recording. Officers cannot threaten, detain, or seize equipment because someone is recording.
+3. Protects the evidence. No deletion, no forced unlocking, no device seizure without consent or warrant.
+4. Provides neutral, independent investigation. All allegations go automatically to a federal Civil Rights Investigative Body.
+5. Creates a clear accountability path. Victims can sue; damages are $5,000–$50,000. Qualified immunity does not apply when a clearly established right is violated.
+What the Act Does Not Do
+* It does not prevent officers from performing lawful duties.
+* It does not authorize physical interference with law enforcement activity.
+* It does not create new surveillance or monitoring authorities.
+* It does not require courts to infer a new constitutional damages remedy.
+* This federal model applies to federal officers only; state and local versions would need to be drafted separately. 
+Sunset Logic
+Core rights are permanent. Reporting systems sunset after 10 years unless renewed—so transparency tools evolve with technology.
+2. MODEL STATUTE TEXT
+Federal Right to Record Act of 2026
+SECTION 1. Short Title.
+This Act may be cited as the “Federal Right to Record Act of 2026.”
+SECTION 2. Purpose and Findings.
+(a) Purpose.—
+To protect the right of individuals to record federal officers performing official duties in public, to prevent retaliation for such recording, and to safeguard the preservation of evidence.
+(b) Findings.—
+Congress finds the following:
+(1) Recording government officials performing public duties in public spaces is widely recognized by federal appellate courts as protected First Amendment activity.
+(2) Federal courts across multiple circuits recognize a right to record officers engaged in their duties, subject to reasonable time, place, and manner limits.
+(3) Retaliation against individuals recording officers undermines transparency, accountability, and public trust.
+(4) Public reporting and research on law-enforcement use of force show that many serious incidents begin outside violent-crime contexts, making public documentation especially important for transparency, accountability, and evidence preservation. (Cite: Mapping Police Violence; Washington Post Fatal Force Database)
+SECTION 3. Definitions.
+In this Act:
+1. “Federal officer” 
+means any employee or contractor of DHS, ICE, CBP, FBI, DEA, ATF, U.S. Marshals Service, or any other federal law enforcement entity, when acting under federal authority.
+2. “Recording” 
+means capturing sound, image, or both, using any device, whether digital or analog.
+3. “Public space” 
+means any place where the person recording has a lawful right to be present and where a federal officer has no reasonable expectation of privacy. (Cite: Katz v. United States; Glik v. Cunniffe)
+4. “Retaliation” 
+means any adverse action taken because of the act of recording and not justified by independent lawful grounds. (Cite: Nieves v. Bartlett)
+5.        “Independent Civil Rights Investigative Body” 
+     means a designated Department of Justice component or special unit structurally separate from the federal agency whose officer or contractor is the subject of the allegation. 
+SECTION 4. Right to Record Federal Officers.
+(a) An individual has the right to record any federal officer performing official duties in any public space.
+(b) No federal officer may demand justification for recording.
+(c) This right is subject only to reasonable, content-neutral time, place, and manner limits narrowly tailored to prevent physical interference with law enforcement activity.
+(d) Nothing in this Act authorizes obstruction of justice.
+SECTION 5. Protection Against Seizure and Destruction of Recordings.
+(a) No federal officer may seize, search, delete, destroy, or access any recording or recording device without a warrant, freely and voluntarily given consent, or another lawful basis consistent with the Fourth Amendment. (Cite: Riley v. California) 
+(b) No federal officer may compel an individual to delete a recording, disable a device, unlock a device, or surrender a password solely because the individual is recording. 
+(c) Exigent circumstances permitting temporary seizure without a warrant must comply with constitutional standards and may not authorize deletion, destruction, or unnecessary access to recorded material. 
+(d) Officers may not intentionally interfere with the creation of a recording unless necessary to prevent physical interference with lawful law enforcement activity. 
+SECTION 6. Independent Investigation of Alleged Retaliation.
+(a) Any allegation of retaliation under this Act shall be referred to the Independent Civil Rights Investigative Body. 
+(b) The federal agency whose officer or contractor is the subject of the allegation may not serve as the sole investigating authority. (Cite: 28 C.F.R. § 0.50)
+(c) The Investigative Body may compel testimony, obtain records, preserve recordings, and issue public findings subject to lawful privacy, safety, and investigative limits.
+SECTION 7. Civil Remedies.
+(a) Any person subjected to retaliation or unlawful interference under this Act may bring a civil action in federal court.
+(b) Statutory damages shall be not less than $5,000 and not more than $50,000, in addition to actual damages where proven.
+(c) Qualified immunity shall not be available as a defense to a claim under this section where the defendant’s conduct violated rights established by this Act.
+(d) The cause of action created by this section is statutory and shall not be construed to create, expand, or limit any implied constitutional remedy under Bivens or related doctrine.
+SECTION 8. Reporting and Transparency.
+(a) The Department of Justice shall maintain a public database of substantiated retaliation findings, with appropriate redactions for privacy, safety, and protected investigative information.
+(b) GAO shall conduct annual compliance audits. (Cite: 31 U.S.C. § 712)
+SECTION 9. Sunset.
+(a) The right to record, the prohibition on retaliation, and the civil remedy shall remain permanent.
+(b) Reporting and database provisions shall sunset 10 years after enactment unless renewed by Congress.
+(c) GAO shall submit a comprehensive review to Congress at year 8.
+SECTION 10. Severability.
+If any provision of this Act is held invalid, the remainder shall not be affected.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Declaration of Generative AI and AI-Assisted Technologies
+During the preparation and revision of this manuscript, the author used generative AI tools to assist with drafting support, language refinement, structural editing, and clarity. All substantive arguments, legislative design choices, theoretical claims, scope decisions, and final editorial judgments are the author’s own. The author reviewed and approved the final manuscript and takes full responsibility for its content.
