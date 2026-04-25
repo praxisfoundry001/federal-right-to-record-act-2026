@@ -30,6 +30,6 @@ This artifact belongs with Praxis Foundry civic/public-law tools and constitutio
 
 ## Citation / DOI
 
-Zenodo DOI: 
+Zenodo DOI: https://doi.org/10.5281/zenodo.19763706
 
 PDF available via DOI link once published.
